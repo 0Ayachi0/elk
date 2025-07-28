@@ -23,7 +23,7 @@
 ## 📥 安装
 
 ```bash
-moon add elk/layout
+moon add 0Ayachi0/elk@0.1.0
 ```
 
 ## 🚀 使用指南

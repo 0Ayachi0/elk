@@ -23,7 +23,7 @@ A comprehensive ELK (Eclipse Layout Kernel) layout algorithm library implemented
 ## 📥 Installation
 
 ```bash
-moon add elk/layout
+moon add 0Ayachi0/elk@0.1.0
 ```
 
 ## 🚀 Usage Guide
