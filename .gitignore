@@ -1,0 +1,15 @@
+# Moonbit build artifacts
+target/
+.mooncakes/
+
+# OS generated files
+.DS_Store
+
+# Coverage reports
+coveralls.json
+coverage.xml
+*.gcov
+*.lcov
+
+# Embedded git repository
+Multiset/
