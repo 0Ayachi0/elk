@@ -354,7 +354,7 @@ This project is licensed under the MIT License. See LICENSE for details.
 
 ## 📝 Changelog
 
-### v1.0.0
+### v0.1.0
 - ✅ Implemented basic Layered, Fixed, Force layout algorithms
 - ✅ Support for multiple layout options and configurations
 - ✅ Implemented edge crossing minimization algorithm
